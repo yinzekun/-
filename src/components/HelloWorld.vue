@@ -1,7 +1,9 @@
 <template>
   <div>
        <canvas width="800" height="700" id="Canvas">
+       您的浏览器不支持画布工具
     </canvas>
+    <div>这是修改过的信息</div>
   </div>
 </template>
 <script>
